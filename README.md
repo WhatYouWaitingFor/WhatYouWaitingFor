@@ -2,7 +2,7 @@
 🌱 As a gap year student, I'm actively focusing on honing my skills in frontend development and UI/UX design, with the goal of creating engaging, user-centered web experiences. Passionate about applying my knowledge in real-world projects while continuously learning the latest technologies and best practices. I thrive on crafting intuitive, accessible, and visually appealing interfaces that enhance user experience.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/katonlintangasmara) 
 
 # 💻 Tech Stack:
