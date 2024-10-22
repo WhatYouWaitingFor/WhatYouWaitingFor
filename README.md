@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatYouWaitingFor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Connect With Me 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Katon Lintang Asmara](https://www.linkedin.com/in/katonlintangasmara?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzicz1IDdT2%2BJaVafaNuAFw%3D%3D)) 
+https://www.linkedin.com/in/katonlintangasmara?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzicz1IDdT2%2BJaVafaNuAFw%3D%3D
 ---
 [![](https://visitcount.itsvg.in/api?id=WhatYouWaitingFor&icon=0&color=0)](https://visitcount.itsvg.in)
 
