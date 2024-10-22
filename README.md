@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hello there, I'm Kiai ngabei Katon Lintang Asmara
 🌱As a gap year student, I'm actively focusing on honing my skills in frontend development and UI/UX design, with the goal of creating engaging, user-centered web experiences. Passionate about applying my knowledge in real-world projects while continuously learning the latest technologies and best practices. I thrive on crafting intuitive, accessible, and visually appealing interfaces that enhance user experience.<br>
 
 # 💻 Tech Stack:
@@ -8,8 +8,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WhatYouWaitingFor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WhatYouWaitingFor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Connect With Me 🌐
-https://www.linkedin.com/in/katonlintangasmara?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bzicz1IDdT2%2BJaVafaNuAFw%3D%3D
+##🌐 Connect With Me 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katonlintangasmara/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@asmarakatonlintang) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=WhatYouWaitingFor&icon=0&color=0)](https://visitcount.itsvg.in)
 
