@@ -1,4 +1,4 @@
-# 💫 About Me:
+👋 Hello there, I'm Kiai ngabei Katon Lintang Asmara
 🌱 I’m currently learning Web Developer | Focused on Frontend Development & UI/UX Design<br>
 
 
